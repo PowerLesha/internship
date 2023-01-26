@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/internship/static/css/main.6c3e24d7.css",
+    "main.js": "/internship/static/js/main.fc303fa9.js",
+    "static/js/787.a9120f67.chunk.js": "/internship/static/js/787.a9120f67.chunk.js",
+    "static/media/hello-world.png": "/internship/static/media/hello-world.e96dee84768295091c3b.png",
+    "index.html": "/internship/index.html",
+    "main.6c3e24d7.css.map": "/internship/static/css/main.6c3e24d7.css.map",
+    "main.fc303fa9.js.map": "/internship/static/js/main.fc303fa9.js.map",
+    "787.a9120f67.chunk.js.map": "/internship/static/js/787.a9120f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c3e24d7.css",
+    "static/js/main.fc303fa9.js"
+  ]
+}
