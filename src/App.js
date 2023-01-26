@@ -1,22 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./hello-world.png";
+import "./App.css";
 
 function App() {
+  const src = "https://powerlesha.github.io/online-training/#/";
+
   return (
     <div className="App">
       <header className="App-header">
+        <p>For internship</p>
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hello world</h1>
+
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          P/S
+          <a
+            className="App-link"
+            href="https://powerlesha.github.io/online-training/#/"
+          >
+            See my website built with React
+          </a>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
