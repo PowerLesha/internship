@@ -1,4 +1,5 @@
-This repository was created with React for an intership.
+
+This repository is built with React for an internship.
 
 See my "Hello World" ;)
 
